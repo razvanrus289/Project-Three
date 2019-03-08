@@ -76,7 +76,7 @@ nav#pagethreenav ul li {
 
 nav#pagethreenav ul li a {
     display: block;
-    background-color: #D6E9F5;
+    background-color: #F7F7F8;
     color: #A24F0B;
     font-weight: bold;
     text-decoration: none;
@@ -130,7 +130,9 @@ nav#pagethreenav ul li a {
     text-align: center;
 }
 
-
+#map {
+    width: 350px;
+}
 
 
 
