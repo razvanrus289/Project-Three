@@ -85,3 +85,42 @@ nav#pagethreenav ul li a {
     border-radius: 4px;
 }
 
+.pageonebottom {
+    color: white;
+}
+
+#box1 {
+    display: block;
+    background-color: black;
+    color: #fff;
+    width: 200px;
+    padding: 10px 0px 8px 0px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+#infobox {
+    display: block;
+    background-color: black;
+    color: #fff;
+    width: 425px;
+    padding: 10px 0px 8px 0px;
+    border-radius: 4px;
+    text-align: center;
+}
+
+#box2 {
+
+}
+
+#box3 {
+
+}
+
+
+
+
+
+
+
+
