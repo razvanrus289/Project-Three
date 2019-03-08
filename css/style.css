@@ -8,9 +8,9 @@
 }
 
 #pagethree{
-    background-color: #F7F7F8;
+    background-color: #D6E9F5;
     font-family: Arial;
-    color: #BF223C;
+    color: #A24F0B;
 
 }
 
@@ -76,8 +76,8 @@ nav#pagethreenav ul li {
 
 nav#pagethreenav ul li a {
     display: block;
-    background-color: black;
-    color: #fff;
+    background-color: #D6E9F5;
+    color: #A24F0B;
     font-weight: bold;
     text-decoration: none;
     text-align: center;
@@ -122,8 +122,8 @@ nav#pagethreenav ul li a {
 
 #box3 {
     display: block;
-    background-color: mediumblue;
-    color: darkred;
+    background-color: #D6E9F5;
+    color: #A24F0B;
     width: 200px;
     padding: 10px 0px 8px 0px;
     border-radius: 4px;
