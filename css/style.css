@@ -1,3 +1,87 @@
 #pageone {
     background-image: url("https://images.unsplash.com/photo-1516617224872-1892debe5a62?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=730&q=80");
 }
+
+#pagetwo{
+    background-color: #034694;
+    color: #fff
+}
+
+#pagethree{
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/itCjTBE/yellow-moving-flowing-waves-abstract-background-video-animation-hd-1920x1080_ej0k_5qxl__F0003.png");
+    font-family: Arial;
+    color: black;
+}
+
+nav#pageonenav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+nav#pageonenav ul li {
+    float: left;
+    margin: 0 15px;
+}
+
+nav#pageonenav ul li a {
+    display: block;
+    background-color: black;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    width: 100px;
+    padding: 10px 0px 8px 0px;
+    border-radius: 4px;
+}
+
+nav#pagetwonav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+nav#pagetwonav ul li {
+    float: left;
+    margin: 0 15px;
+}
+
+nav#pagetwonav ul li a {
+    display: block;
+    background-color: black;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    width: 100px;
+    padding: 10px 0px 8px 0px;
+    border-radius: 4px;
+}
+
+nav#pagethreenav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+nav#pagethreenav ul li {
+    float: left;
+    margin: 0 15px;
+}
+
+nav#pagethreenav ul li a {
+    display: block;
+    background-color: black;
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    width: 100px;
+    padding: 10px 0px 8px 0px;
+    border-radius: 4px;
+}
+
