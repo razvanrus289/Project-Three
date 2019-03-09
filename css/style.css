@@ -120,11 +120,11 @@ nav#pagethreenav ul li a {
     text-align: center;
 }
 
-#box3 {
+.box3 {
     display: block;
     background-color: #D6E9F5;
     color: #A24F0B;
-    width: 200px;
+    width: 250px;
     padding: 10px 0px 8px 0px;
     border-radius: 4px;
     text-align: center;
@@ -136,8 +136,47 @@ nav#pagethreenav ul li a {
     width: 350px;
 }
 
+.para1-pg3 {
+    display: block;
+    background-color: #D6E9F5;
+    color: #A24F0B;
+    width: 750px;
+    padding: 5px 0px 5px 0px;
+    border-radius: 4px;
+    text-align: left;
+}
 
+.para2-pg3 {
+    display: block;
+    background-color: #D6E9F5;
+    color: #A24F0B;
+    width: 750px;
+    padding: 5px 0px 5px 0px;
+    border-radius: 4px;
+    text-align: right;
+    margin-left: auto;
+}
 
+.para3-pg3 {
+    display: block;
+    background-color: #D6E9F5;
+    color: #A24F0B;
+    width: 750px;
+    padding: 5px 0px 5px 0px;
+    border-radius: 4px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+.para4-pg3 {
+    display: block;
+    background-color: #D6E9F5;
+    color: #A24F0B;
+    width: 750px;
+    padding: 5px 0px 5px 0px;
+    border-radius: 4px;
+    text-align: left;
+}
 
 
