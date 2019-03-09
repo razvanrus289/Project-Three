@@ -10,7 +10,6 @@
 
 #pagethree{
     background-color: #D6E9F5;
-    fon;
     font-family: Arial;
     color: #A24F0B;
 
@@ -234,7 +233,7 @@ nav#pagethreenav ul li a {
 #summary {
     display: block;
     background-color: #EBF4FA;
-    width: 900px;
+    width: 1100px;
     padding: 5px 0px 5px 0px;
     border-radius: 4px;
     text-align: left;
@@ -243,7 +242,34 @@ nav#pagethreenav ul li a {
 #education {
     display: block;
     background-color: #EBF4FA;
-    width: 900px;
+    width: 1100px;
+    padding: 5px 0px 5px 0px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+#skills {
+    display: block;
+    background-color: #EBF4FA;
+    width: 1100px;
+    padding: 5px 0px 5px 0px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+#experience {
+    display: block;
+    background-color: #EBF4FA;
+    width: 1100px;
+    padding: 5px 0px 5px 0px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+#activities {
+    display: block;
+    background-color: #EBF4FA;
+    width: 1100px;
     padding: 5px 0px 5px 0px;
     border-radius: 5px;
     text-align: left;
