@@ -136,6 +136,7 @@ nav#pagethreenav ul li a {
 
 #map {
     width: 350px;
+    float: right;
 }
 
 .para1-pg3 { /* WWI (Romania Page) */
@@ -153,7 +154,7 @@ nav#pagethreenav ul li a {
     background-color: #D6E9F5;
     color: #A24F0B;
     width: 750px;
-    padding: 5px 0px 5px 0px;
+    padding: 20px 0px 0px 0px;
     border-radius: 4px;
     text-align: right;
     margin-left: auto;
