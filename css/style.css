@@ -93,7 +93,7 @@ nav#pagethreenav ul li a {
     background-color: #fff;
     color: black;
     width: 200px;
-    padding: 10px 0px 10px 0px;
+    padding: 10px 0px 5px 0px;
     border-radius: 4px;
     text-align: center;
     margin: auto;
@@ -104,7 +104,7 @@ nav#pagethreenav ul li a {
     background-color: #fff;
     color: black;
     width: 425px;
-    padding: 20px 0px 8px 0px;
+    padding: 10px 0px 8px 0px;
     border-radius: 4px;
     text-align: center;
     margin: auto;
@@ -184,13 +184,14 @@ nav#pagethreenav ul li a {
 
 #badge {
     width: 200px;
+    margin-left: 43%;
 }
 
 #para1-pg2 { /* General Info (Chelsea Page) */
     display: block;
     background-color: white;
     color: #034694;
-    width: 350px;
+    width: 375px;
     padding: 5px 0px 5px 0px;
     border-radius: 4px;
     text-align: right;
@@ -209,11 +210,15 @@ nav#pagethreenav ul li a {
     margin-right: auto;
 }
 
+#stadium {
+    position: absolute;
+}
+
 #para3-pg2 { /* Mascot Policy (Chelsea Page) */
     display: block;
     background-color: white;
     color: #034694;
-    width: 400px;
+    width: 500px;
     padding: 5px 0px 5px 0px;
     border-radius: 4px;
     text-align: left;
@@ -223,11 +228,11 @@ nav#pagethreenav ul li a {
     display: block;
     margin-left: auto;
     width: 600px;
-    height: 300px;
+    height: 400px;
 }
 
 .hr {
-    width: 60%;
+    width: 100%;
 
 }
 
