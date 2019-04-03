@@ -230,39 +230,44 @@ nav#pagethreenav ul li a {
     display: block;
     background-color: #EBF4FA;
     width: 1100px;
-    padding: 5px 0px 5px 0px;
+    padding: 5px 0px 5px 10px;
     border-radius: 4px;
     text-align: left;
+    margin: auto;
 }
 #education {
     display: block;
     background-color: #EBF4FA;
     width: 1100px;
-    padding: 5px 0px 5px 0px;
+    padding: 5px 0px 5px 10px;
     border-radius: 5px;
     text-align: left;
+    margin: auto;
 }
 #skills {
     display: block;
     background-color: #EBF4FA;
     width: 1100px;
-    padding: 5px 0px 5px 0px;
+    padding: 5px 0px 5px 10px;
     border-radius: 5px;
     text-align: left;
+    margin: auto;
 }
 #experience {
     display: block;
     background-color: #EBF4FA;
     width: 1100px;
-    padding: 5px 0px 5px 0px;
+    padding: 5px 0px 5px 10px;
     border-radius: 5px;
     text-align: left;
+    margin: auto;
 }
 #activities {
     display: block;
     background-color: #EBF4FA;
     width: 1100px;
-    padding: 5px 0px 5px 0px;
+    padding: 5px 0px 5px 10px;
     border-radius: 5px;
     text-align: left;
+    margin: auto;
 }
