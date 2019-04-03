@@ -1,273 +1,281 @@
 #pageone {
-    background-color: #ADD2EB;
-    font-family: Arial;
-    color: #1D5962;
+  background-color: #ADD2EB;
+  font-family: Arial;
+  color: #1D5962;
 }
-#pagetwo{
-    background-color: #034694;
-    font-family: Arial;
-    color: #fff
+#pagetwo {
+  background-color: #034694;
+  font-family: Arial;
+  color: #fff
 }
-#pagethree{
-    background-color: #D6E9F5;
-    font-family: Arial;
-    color: #A24F0B;
+#pagethree {
+  background-color: #D6E9F5;
+  font-family: Arial;
+  color: #A24F0B;
 }
 nav#pageonenav ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    overflow: hidden;
-    position: relative;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
 }
 nav#pageonenav ul li {
-    float: left;
-    margin: 0;
-    position: relative;
-    left: 33%;
-    right: 50%;
+  float: left;
+  margin: 0;
+  position: relative;
+  left: 33%;
+  right: 50%;
 }
 nav#pageonenav ul li a {
-    display: block;
-    background-color: #fff;
-    color: black;
-    font-weight: bold;
-    text-decoration: none;
-    text-align: center;
-    margin: 10px;
-    width: 100px;
-    border-radius: 15px;
-    padding: 10px 20px;
-    position: relative;
+  display: block;
+  background-color: #fff;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  margin: 10px;
+  width: 100px;
+  border-radius: 15px;
+  padding: 10px 20px;
+  position: relative;
 }
 nav#pagetwonav ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    overflow: hidden;
-    position: relative;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
 }
 nav#pagetwonav ul li {
-    float: left;
-    margin: 0 15px;
-    position: relative;
-    left: 30%;
-    right: 50%;
+  float: left;
+  margin: 0 15px;
+  position: relative;
+  left: 30%;
+  right: 50%;
 }
 nav#pagetwonav ul li a {
-    display: block;
-    background-color: white;
-    color: #034694;
-    font-weight: bold;
-    text-decoration: none;
-    text-align: center;
-    margin: 10px;
-    width: 100px;
-    border-radius: 15px;
-    padding: 10px 20px;
-    position: relative;
+  display: block;
+  background-color: white;
+  color: #034694;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  margin: 10px;
+  width: 100px;
+  border-radius: 15px;
+  padding: 10px 20px;
+  position: relative;
 }
 nav#pagethreenav ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    overflow: hidden;
-    position: relative;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
 }
 nav#pagethreenav ul li {
-    float: left;
-    margin: 0 15px;
-    position: relative;
-    left: 30%;
-    right: 50%;
+  float: left;
+  margin: 0 15px;
+  position: relative;
+  left: 30%;
+  right: 50%;
 }
 nav#pagethreenav ul li a {
-    display: block;
-    background-color: #F7F7F8;
-    color: #A24F0B;
-    font-weight: bold;
-    text-decoration: none;
-    text-align: center;
-    margin: 10px;
-    width: 100px;
-    border-radius: 15px;
-    padding: 10px 20px;
-    position: relative;
+  display: block;
+  background-color: #F7F7F8;
+  color: #A24F0B;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  margin: 10px;
+  width: 100px;
+  border-radius: 15px;
+  padding: 10px 20px;
+  position: relative;
 }
 #box1 {
-    display: block;
-    background-color: #fff;
-    color: black;
-    width: 200px;
-    padding: 5px 5px 5px 5px;
-    border-radius: 4px;
-    text-align: center;
-    margin: auto;
+  display: block;
+  background-color: #fff;
+  color: black;
+  width: 200px;
+  padding: 5px 5px 5px 5px;
+  border-radius: 4px;
+  text-align: center;
+  margin: auto;
 }
 #infobox {
-    display: block;
-    background-color: #fff;
-    color: black;
-    width: 425px;
-    padding: 10px 0px 8px 0px;
-    border-radius: 4px;
-    text-align: center;
-    margin: auto;
+  display: block;
+  background-color: #fff;
+  color: black;
+  width: 425px;
+  padding: 10px 0px 8px 0px;
+  border-radius: 4px;
+  text-align: center;
+  margin: auto;
 }
 #box2 {
-    display: block;
-    background-color: white;
-    color: #034694;
-    width: 200px;
-    padding: 10px 0px 8px 0px;
-    border-radius: 4px;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+  display: block;
+  background-color: white;
+  color: #034694;
+  width: 200px;
+  padding: 10px 0px 8px 0px;
+  border-radius: 4px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 .box3 {
-    display: block;
-    background-color: #D6E9F5;
-    color: #A24F0B;
-    width: 250px;
-    padding: 10px 0px 8px 0px;
-    border-radius: 4px;
-    text-align: center;
-    margin-right: auto;
-    margin-left: auto;
+  display: block;
+  background-color: #D6E9F5;
+  color: #A24F0B;
+  width: 250px;
+  padding: 10px 0px 8px 0px;
+  border-radius: 4px;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
 }
 #map {
-    width: 350px;
-    float: right;
+  width: 350px;
+  float: right;
 }
 .para1-pg3 { /* WWI (Romania Page) */
-    display: block;
-    background-color: #D6E9F5;
-    color: #A24F0B;
-    width: 750px;
-    padding: 5px 0px 5px 0px;
-    border-radius: 4px;
-    text-align: left;
+  display: block;
+  background-color: #D6E9F5;
+  color: #A24F0B;
+  width: 750px;
+  padding: 5px 0px 5px 0px;
+  border-radius: 4px;
+  text-align: left;
 }
 .para2-pg3 { /* Greater Romania (Romania Page) */
-    display: block;
-    background-color: #D6E9F5;
-    color: #A24F0B;
-    width: 750px;
-    padding: 20px 0px 0px 0px;
-    border-radius: 4px;
-    text-align: right;
-    margin-left: auto;
+  display: block;
+  background-color: #D6E9F5;
+  color: #A24F0B;
+  width: 750px;
+  padding: 20px 0px 0px 0px;
+  border-radius: 4px;
+  text-align: right;
+  margin-left: auto;
 }
 .para3-pg3 { /* WWII (Romania Page) */
-    display: block;
-    background-color: #D6E9F5;
-    color: #A24F0B;
-    width: 750px;
-    padding: 5px 0px 5px 0px;
-    border-radius: 4px;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+  display: block;
+  background-color: #D6E9F5;
+  color: #A24F0B;
+  width: 750px;
+  padding: 5px 0px 5px 0px;
+  border-radius: 4px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 .para4-pg3 { /* Culture (Romania Page) */
-    display: block;
-    background-color: #D6E9F5;
-    color: #A24F0B;
-    width: 750px;
-    padding: 5px 0px 5px 0px;
-    border-radius: 4px;
-    text-align: left;
+  display: block;
+  background-color: #D6E9F5;
+  color: #A24F0B;
+  width: 750px;
+  padding: 5px 0px 5px 0px;
+  border-radius: 4px;
+  text-align: left;
 }
 #badge {
-    width: 200px;
-    margin-left: 43%;
+  width: 200px;
+  margin-left: 43%;
 }
 #para1-pg2 { /* General Info (Chelsea Page) */
-    display: block;
-    background-color: white;
-    color: #034694;
-    width: 375px;
-    padding: 5px 0px 5px 0px;
-    border-radius: 4px;
-    text-align: right;
-    margin-left: auto;
+  display: block;
+  background-color: white;
+  color: #034694;
+  width: 375px;
+  padding: 5px 10px 5px 0px;
+  border-radius: 4px;
+  text-align: right;
+  margin-left: auto;
+  margin-right: 10px;
 }
 #para2-pg2 { /* Training Ground (Chelsea Page) */
-    display: block;
-    background-color: white;
-    color: #034694;
-    width: 350px;
-    padding: 5px 0px 5px 0px;
-    border-radius: 4px;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
+  display: block;
+  background-color: white;
+  color: #034694;
+  width: 350px;
+  padding: 5px 5px 5px 5px;
+  border-radius: 4px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 #stadium {
-    position: absolute;
+  position: absolute;
+  margin-left: 10px;
 }
 #para3-pg2 { /* Mascot Policy (Chelsea Page) */
-    display: block;
-    background-color: white;
-    color: #034694;
-    width: 500px;
-    padding: 5px 0px 5px 0px;
-    border-radius: 4px;
-    text-align: left;
+  display: block;
+  background-color: white;
+  color: #034694;
+  width: 500px;
+  padding: 5px 5px 5px 10px;
+  border-radius: 4px;
+  text-align: left;
+  margin-left: 10px;
 }
 #video { /* Video (Chelsea Page) */
-    display: block;
-    margin-left: auto;
-    width: 600px;
-    height: 400px;
+  display: block;
+  margin-left: auto;
+  width: 600px;
+  height: 400px;
+  margin-right: 10px;
 }
 .hr {
-    width: 100%;
+  width: 100%;
 
 }
 #summary {
-    display: block;
-    background-color: #EBF4FA;
-    width: 1100px;
-    padding: 5px 0px 5px 10px;
-    border-radius: 4px;
-    text-align: left;
-    margin: auto;
+  display: block;
+  background-color: #EBF4FA;
+  width: 1100px;
+  padding: 5px 0px 5px 10px;
+  border-radius: 4px;
+  text-align: left;
+  margin: auto;
 }
 #education {
-    display: block;
-    background-color: #EBF4FA;
-    width: 1100px;
-    padding: 5px 0px 5px 10px;
-    border-radius: 5px;
-    text-align: left;
-    margin: auto;
+  display: block;
+  background-color: #EBF4FA;
+  width: 1100px;
+  padding: 5px 0px 5px 10px;
+  border-radius: 5px;
+  text-align: left;
+  margin: auto;
 }
 #skills {
-    display: block;
-    background-color: #EBF4FA;
-    width: 1100px;
-    padding: 5px 0px 5px 10px;
-    border-radius: 5px;
-    text-align: left;
-    margin: auto;
+  display: block;
+  background-color: #EBF4FA;
+  width: 1100px;
+  padding: 5px 0px 5px 10px;
+  border-radius: 5px;
+  text-align: left;
+  margin: auto;
 }
 #experience {
-    display: block;
-    background-color: #EBF4FA;
-    width: 1100px;
-    padding: 5px 0px 5px 10px;
-    border-radius: 5px;
-    text-align: left;
-    margin: auto;
+  display: block;
+  background-color: #EBF4FA;
+  width: 1100px;
+  padding: 5px 0px 5px 10px;
+  border-radius: 5px;
+  text-align: left;
+  margin: auto;
 }
 #activities {
-    display: block;
-    background-color: #EBF4FA;
-    width: 1100px;
-    padding: 5px 0px 5px 10px;
-    border-radius: 5px;
-    text-align: left;
-    margin: auto;
+  display: block;
+  background-color: #EBF4FA;
+  width: 1100px;
+  padding: 5px 0px 5px 10px;
+  border-radius: 5px;
+  text-align: left;
+  margin: auto;
+}
+#CHElink {
+    color: white;
+    text-decoration: none;
 }
