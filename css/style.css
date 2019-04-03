@@ -145,9 +145,10 @@ nav#pagethreenav ul li a {
   background-color: #D6E9F5;
   color: #A24F0B;
   width: 750px;
-  padding: 5px 0px 5px 0px;
+  padding: 5px 5px 5px 10px;
   border-radius: 4px;
   text-align: left;
+  margin-left: 10px;
 }
 .para2-pg3 { /* Greater Romania (Romania Page) */
   display: block;
@@ -276,6 +277,14 @@ nav#pagethreenav ul li a {
   margin: auto;
 }
 #CHElink {
-    color: white;
-    text-decoration: none;
+  color: white;
+  text-decoration: none;
+}
+#History {
+  color: #A24F0B;
+  text-decoration: none;
+}
+#Culture {
+  color: #A24F0B;
+  text-decoration: none;
 }
