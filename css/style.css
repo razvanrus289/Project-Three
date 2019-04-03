@@ -2,22 +2,17 @@
     background-color: #ADD2EB;
     font-family: Arial;
     color: #1D5962;
-
 }
-
 #pagetwo{
     background-color: #034694;
     font-family: Arial;
     color: #fff
 }
-
 #pagethree{
     background-color: #D6E9F5;
     font-family: Arial;
     color: #A24F0B;
-
 }
-
 nav#pageonenav ul {
     list-style-type: none;
     padding: 0;
@@ -25,7 +20,6 @@ nav#pageonenav ul {
     overflow: hidden;
     position: relative;
 }
-
 nav#pageonenav ul li {
     float: left;
     margin: 0;
@@ -33,7 +27,6 @@ nav#pageonenav ul li {
     left: 33%;
     right: 50%;
 }
-
 nav#pageonenav ul li a {
     display: block;
     background-color: #fff;
@@ -47,7 +40,6 @@ nav#pageonenav ul li a {
     padding: 10px 20px;
     position: relative;
 }
-
 nav#pagetwonav ul {
     list-style-type: none;
     padding: 0;
@@ -55,7 +47,6 @@ nav#pagetwonav ul {
     overflow: hidden;
     position: relative;
 }
-
 nav#pagetwonav ul li {
     float: left;
     margin: 0 15px;
@@ -63,7 +54,6 @@ nav#pagetwonav ul li {
     left: 30%;
     right: 50%;
 }
-
 nav#pagetwonav ul li a {
     display: block;
     background-color: white;
@@ -77,7 +67,6 @@ nav#pagetwonav ul li a {
     padding: 10px 20px;
     position: relative;
 }
-
 nav#pagethreenav ul {
     list-style-type: none;
     padding: 0;
@@ -85,7 +74,6 @@ nav#pagethreenav ul {
     overflow: hidden;
     position: relative;
 }
-
 nav#pagethreenav ul li {
     float: left;
     margin: 0 15px;
@@ -93,7 +81,6 @@ nav#pagethreenav ul li {
     left: 30%;
     right: 50%;
 }
-
 nav#pagethreenav ul li a {
     display: block;
     background-color: #F7F7F8;
@@ -107,8 +94,6 @@ nav#pagethreenav ul li a {
     padding: 10px 20px;
     position: relative;
 }
-
-
 #box1 {
     display: block;
     background-color: #fff;
@@ -119,7 +104,6 @@ nav#pagethreenav ul li a {
     text-align: center;
     margin: auto;
 }
-
 #infobox {
     display: block;
     background-color: #fff;
@@ -130,7 +114,6 @@ nav#pagethreenav ul li a {
     text-align: center;
     margin: auto;
 }
-
 #box2 {
     display: block;
     background-color: white;
@@ -142,7 +125,6 @@ nav#pagethreenav ul li a {
     margin-left: auto;
     margin-right: auto;
 }
-
 .box3 {
     display: block;
     background-color: #D6E9F5;
@@ -154,12 +136,10 @@ nav#pagethreenav ul li a {
     margin-right: auto;
     margin-left: auto;
 }
-
 #map {
     width: 350px;
     float: right;
 }
-
 .para1-pg3 { /* WWI (Romania Page) */
     display: block;
     background-color: #D6E9F5;
@@ -169,7 +149,6 @@ nav#pagethreenav ul li a {
     border-radius: 4px;
     text-align: left;
 }
-
 .para2-pg3 { /* Greater Romania (Romania Page) */
     display: block;
     background-color: #D6E9F5;
@@ -180,7 +159,6 @@ nav#pagethreenav ul li a {
     text-align: right;
     margin-left: auto;
 }
-
 .para3-pg3 { /* WWII (Romania Page) */
     display: block;
     background-color: #D6E9F5;
@@ -192,7 +170,6 @@ nav#pagethreenav ul li a {
     margin-left: auto;
     margin-right: auto;
 }
-
 .para4-pg3 { /* Culture (Romania Page) */
     display: block;
     background-color: #D6E9F5;
@@ -202,12 +179,10 @@ nav#pagethreenav ul li a {
     border-radius: 4px;
     text-align: left;
 }
-
 #badge {
     width: 200px;
     margin-left: 43%;
 }
-
 #para1-pg2 { /* General Info (Chelsea Page) */
     display: block;
     background-color: white;
@@ -218,7 +193,6 @@ nav#pagethreenav ul li a {
     text-align: right;
     margin-left: auto;
 }
-
 #para2-pg2 { /* Training Ground (Chelsea Page) */
     display: block;
     background-color: white;
@@ -230,11 +204,9 @@ nav#pagethreenav ul li a {
     margin-left: auto;
     margin-right: auto;
 }
-
 #stadium {
     position: absolute;
 }
-
 #para3-pg2 { /* Mascot Policy (Chelsea Page) */
     display: block;
     background-color: white;
@@ -244,19 +216,16 @@ nav#pagethreenav ul li a {
     border-radius: 4px;
     text-align: left;
 }
-
 #video { /* Video (Chelsea Page) */
     display: block;
     margin-left: auto;
     width: 600px;
     height: 400px;
 }
-
 .hr {
     width: 100%;
 
 }
-
 #summary {
     display: block;
     background-color: #EBF4FA;
@@ -265,7 +234,6 @@ nav#pagethreenav ul li a {
     border-radius: 4px;
     text-align: left;
 }
-
 #education {
     display: block;
     background-color: #EBF4FA;
@@ -274,7 +242,6 @@ nav#pagethreenav ul li a {
     border-radius: 5px;
     text-align: left;
 }
-
 #skills {
     display: block;
     background-color: #EBF4FA;
@@ -283,7 +250,6 @@ nav#pagethreenav ul li a {
     border-radius: 5px;
     text-align: left;
 }
-
 #experience {
     display: block;
     background-color: #EBF4FA;
@@ -292,7 +258,6 @@ nav#pagethreenav ul li a {
     border-radius: 5px;
     text-align: left;
 }
-
 #activities {
     display: block;
     background-color: #EBF4FA;
