@@ -118,7 +118,7 @@ nav#pagethreenav ul li a {
   display: block;
   background-color: white;
   color: #034694;
-  width: 200px;
+  width: 15%;
   padding: 10px 0px 8px 0px;
   border-radius: 4px;
   text-align: center;
@@ -191,19 +191,20 @@ nav#pagethreenav ul li a {
   display: block;
   background-color: white;
   color: #034694;
-  width: 375px;
+  width: 25em;
   padding: 5px 10px 5px 0px;
   border-radius: 4px;
   text-align: right;
   margin-left: auto;
   margin-right: 10px;
+  margin-bottom: 1em;
 }
 #para2-pg2 { /* Training Ground (Chelsea Page) */
   display: block;
   background-color: white;
   color: #034694;
-  width: 350px;
-  padding: 5px 5px 5px 5px;
+  width: 30%;
+  padding: .5% .5% .5% .5%;
   border-radius: 4px;
   text-align: center;
   margin-left: auto;
@@ -212,6 +213,7 @@ nav#pagethreenav ul li a {
 #stadium {
   position: absolute;
   margin-left: 10px;
+  margin-bottom: 1em;
 }
 #para3-pg2 { /* Mascot Policy (Chelsea Page) */
   display: block;
@@ -221,6 +223,7 @@ nav#pagethreenav ul li a {
   padding: 5px 5px 5px 10px;
   border-radius: 4px;
   text-align: left;
+  margin-top: 3em;
   margin-left: 10px;
 }
 #video { /* Video (Chelsea Page) */
@@ -232,7 +235,6 @@ nav#pagethreenav ul li a {
 }
 .hr {
   width: 100%;
-
 }
 #summary {
   display: block;
