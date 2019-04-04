@@ -155,7 +155,7 @@ nav#pagethreenav ul li a {
   display: block;
   background-color: #D6E9F5;
   color: #A24F0B;
-  width: 750px;
+  width: 50%;
   padding: 5px 10px 5px 5px;
   border-radius: 4px;
   text-align: right;
@@ -166,7 +166,7 @@ nav#pagethreenav ul li a {
   display: block;
   background-color: #D6E9F5;
   color: #A24F0B;
-  width: 750px;
+  width: 50%;
   padding: 5px 0px 5px 0px;
   border-radius: 4px;
   text-align: center;
@@ -177,7 +177,7 @@ nav#pagethreenav ul li a {
   display: block;
   background-color: #D6E9F5;
   color: #A24F0B;
-  width: 750px;
+  width: 55%;
   padding: 5px 5px 5px 10px;
   border-radius: 4px;
   text-align: left;
