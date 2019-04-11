@@ -330,3 +330,51 @@ nav#pagefournav ul li a {
 .sources{
   margin-left: 10px;
 }
+@media only screen and (max-width: 850px) {
+  #pageone {
+    background-color: black;
+    color: red;
+  }
+  #pagetwo {
+    background-color: black;
+  }
+  #para1-pg2 {
+    color: red;
+  }
+  #para2-pg2 {
+    color: red;
+  }
+  #para3-pg2 {
+    color: red;
+  }
+  #name {
+    color: red;
+  }
+  #infobox {
+    color: red;
+  }
+  #box2 {
+    color: red;
+  }
+  #pagethree {
+    background-color: black;
+  }
+  #para1-pg3 {
+    color: red;
+  }
+  #para2-pg3 {
+    color: red;
+  }
+  #para3-pg3 {
+    color: red;
+  }
+  #para4-pg3 {
+    color: red;
+  }
+  #pagefour {
+    background-color: black;
+  }
+  #gmap {
+    height: 100%;
+  }
+}
