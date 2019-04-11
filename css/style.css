@@ -13,6 +13,11 @@
   font-family: Arial;
   color: #A24F0B;
 }
+#pagefour {
+  background-color: #341A04;
+  font-family: Arial;
+  color: #341A04;
+}
 nav#pageonenav ul {
   list-style-type: none;
   padding: 0;
@@ -24,7 +29,7 @@ nav#pageonenav ul li {
   float: left;
   margin: 0;
   position: relative;
-  left: 33%;
+  left: 28%;
   right: 50%;
 }
 nav#pageonenav ul li a {
@@ -51,7 +56,7 @@ nav#pagetwonav ul li {
   float: left;
   margin: 0 15px;
   position: relative;
-  left: 30%;
+  left: 24%;
   right: 50%;
 }
 nav#pagetwonav ul li a {
@@ -78,13 +83,40 @@ nav#pagethreenav ul li {
   float: left;
   margin: 0 15px;
   position: relative;
-  left: 30%;
+  left: 24%;
   right: 50%;
 }
 nav#pagethreenav ul li a {
   display: block;
   background-color: #F7F7F8;
   color: #A24F0B;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  margin: 10px;
+  width: 100px;
+  border-radius: 15px;
+  padding: 10px 20px;
+  position: relative;
+}
+nav#pagefournav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  position: relative;
+}
+nav#pagefournav ul li {
+  float: left;
+  margin: 0;
+  position: relative;
+  left: 28%;
+  right: 50%;
+}
+nav#pagefournav ul li a {
+  display: block;
+  background-color: #E9F7F9;
+  color: #341A04;
   font-weight: bold;
   text-decoration: none;
   text-align: center;
