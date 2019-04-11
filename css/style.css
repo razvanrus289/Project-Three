@@ -168,7 +168,7 @@ nav#pagefournav ul li a {
   margin-right: auto;
   margin-left: auto;
 }
-#map {
+#romaniamap {
   width: 350px;
   float: right;
   margin-right: 10px;
@@ -374,7 +374,7 @@ nav#pagefournav ul li a {
   #pagefour {
     background-color: black;
   }
-  #gmap {
+  #map {
     height: 100%;
   }
 }
