@@ -1,7 +1,27 @@
 #pageone {
-  background-color: #ADD2EB;
-  font-family: Arial;
-  color: #1D5962;
+  background-color: black;
+  color: red;
+  font-family: cursive;
+}
+#name {
+  display: block;
+  background-color: white;
+  color: red;
+  width: 20%;
+  padding: 5px 5px 5px 5px;
+  border-radius: 4px;
+  text-align: center;
+  margin: auto;
+}
+#infobox {
+  display: block;
+  background-color: white;
+  color: red;
+  width: 30%;
+  padding: 10px 0px 8px 0px;
+  border-radius: 4px;
+  text-align: center;
+  margin: auto;
 }
 #pagetwo {
   background-color: #034694;
@@ -125,26 +145,6 @@ nav#pagefournav ul li a {
   border-radius: 15px;
   padding: 10px 20px;
   position: relative;
-}
-#name { /* PAGE ONE NAME BOX */
-  display: block;
-  background-color: #fff;
-  color: black;
-  width: 20%;
-  padding: 5px 5px 5px 5px;
-  border-radius: 4px;
-  text-align: center;
-  margin: auto;
-}
-#infobox {
-  display: block;
-  background-color: #fff;
-  color: black;
-  width: 30%;
-  padding: 10px 0px 8px 0px;
-  border-radius: 4px;
-  text-align: center;
-  margin: auto;
 }
 #box2 { /* CHELSEA FC HEADING */
   display: block;
@@ -270,8 +270,8 @@ nav#pagefournav ul li a {
 }
 #summary {
   display: block;
-  background-color: #EBF4FA;
-  width: 76.5%;
+  background-color: white;
+  width: 100%;
   padding: .3% 0% .3% 1%;
   border-radius: 4px;
   text-align: left;
@@ -279,8 +279,8 @@ nav#pagefournav ul li a {
 }
 #education {
   display: block;
-  background-color: #EBF4FA;
-  width: 76.5%;
+  background-color: white;
+  width: 100%;
   padding: .3% 0% .3% 1%;
   border-radius: 5px;
   text-align: left;
@@ -288,8 +288,8 @@ nav#pagefournav ul li a {
 }
 #skills {
   display: block;
-  background-color: #EBF4FA;
-  width: 76.5%;
+  background-color: white;
+  width: 100%;
   padding: .3% 0% .3% 1%;
   border-radius: 5px;
   text-align: left;
@@ -297,8 +297,8 @@ nav#pagefournav ul li a {
 }
 #experience {
   display: block;
-  background-color: #EBF4FA;
-  width: 76.5%;
+  background-color: white;
+  width: 100%;
   padding: .3% 0% .3% 1%;
   border-radius: 5px;
   text-align: left;
@@ -306,8 +306,8 @@ nav#pagefournav ul li a {
 }
 #activities {
   display: block;
-  background-color: #EBF4FA;
-  width: 76.5%;
+  background-color: white;
+  width: 100%;
   padding: .3% 0% .3% 1%;
   border-radius: 5px;
   text-align: left;
@@ -330,51 +330,155 @@ nav#pagefournav ul li a {
 .sources{
   margin-left: 10px;
 }
-@media only screen and (max-width: 850px) {
+#map {
+  height: 100%;
+}
+@media only screen and (min-width: 800px) {
   #pageone {
-    background-color: black;
-    color: red;
+    background-color: lightpink;
+    font-family: "Times New Roman";
+    color: lightsalmon;
   }
-  #pagetwo {
-    background-color: black;
+  #activities {
+    display: block;
+    background-color: lightgreen;
+    width: 90%;
+    padding: .3% 0% .3% 1%;
+    border-radius: 5px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1%;
   }
-  #para1-pg2 {
-    color: red;
+  #experience {
+    display: block;
+    background-color: lightgreen;
+    width: 90%;
+    padding: .3% 0% .3% 1%;
+    border-radius: 5px;
+    text-align: left;
+    margin: auto;
   }
-  #para2-pg2 {
-    color: red;
+  #skills {
+    display: block;
+    background-color: lightgreen;
+    width: 90%;
+    padding: .3% 0% .3% 1%;
+    border-radius: 5px;
+    text-align: left;
+    margin: auto;
   }
-  #para3-pg2 {
-    color: red;
+  #education {
+    display: block;
+    background-color: lightgreen;
+    width: 90%;
+    padding: .3% 0% .3% 1%;
+    border-radius: 5px;
+    text-align: left;
+    margin: auto;
   }
-  #name {
-    color: red;
+  #summary {
+    display: block;
+    background-color: lightgreen;
+    width: 90%;
+    padding: .3% 0% .3% 1%;
+    border-radius: 4px;
+    text-align: left;
+    margin: auto;
+  }
+  #name { /* PAGE ONE NAME BOX */
+    display: block;
+    background-color: lightgreen;
+    color: lightsalmon;
+    width: 20%;
+    padding: 5px 5px 5px 5px;
+    border-radius: 4px;
+    text-align: center;
+    margin: auto;
   }
   #infobox {
-    color: red;
-  }
-  #box2 {
-    color: red;
-  }
-  #pagethree {
-    background-color: black;
-  }
-  #para1-pg3 {
-    color: red;
-  }
-  #para2-pg3 {
-    color: red;
-  }
-  #para3-pg3 {
-    color: red;
-  }
-  #para4-pg3 {
-    color: red;
-  }
-  #pagefour {
-    background-color: black;
-  }
-  #map {
-    height: 100%;
+    display: block;
+    background-color: lightgreen;
+    color: lightsalmon;
+    width: 30%;
+    padding: 10px 0px 8px 0px;
+    border-radius: 4px;
+    text-align: center;
+    margin: auto;
   }
 }
+@media only screen and (min-width: 1100px) {
+  #pageone {
+    background-color: #ADD2EB;
+    font-family: Arial;
+    color: #1D5962;
+  }
+  #activities {
+    display: block;
+    background-color: #EBF4FA;
+    width: 76.5%;
+    padding: .3% 0% .3% 1%;
+    border-radius: 5px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1%;
+  }
+  #experience {
+    display: block;
+    background-color: #EBF4FA;
+    width: 76.5%;
+    padding: .3% 0% .3% 1%;
+    border-radius: 5px;
+    text-align: left;
+    margin: auto;
+  }
+  #skills {
+    display: block;
+    background-color: #EBF4FA;
+    width: 76.5%;
+    padding: .3% 0% .3% 1%;
+    border-radius: 5px;
+    text-align: left;
+    margin: auto;
+  }
+  #education {
+    display: block;
+    background-color: #EBF4FA;
+    width: 76.5%;
+    padding: .3% 0% .3% 1%;
+    border-radius: 5px;
+    text-align: left;
+    margin: auto;
+  }
+  #summary {
+    display: block;
+    background-color: #EBF4FA;
+    width: 76.5%;
+    padding: .3% 0% .3% 1%;
+    border-radius: 4px;
+    text-align: left;
+    margin: auto;
+  }
+  #name { /* PAGE ONE NAME BOX */
+    display: block;
+    background-color: #EBF4FA;
+    color: #1D5962;
+    width: 20%;
+    padding: 5px 5px 5px 5px;
+    border-radius: 4px;
+    text-align: center;
+    margin: auto;
+  }
+  #infobox {
+    display: block;
+    background-color: #EBF4FA;
+    color: #1D5962;
+    width: 30%;
+    padding: 10px 0px 8px 0px;
+    border-radius: 4px;
+    text-align: center;
+    margin: auto;
+  }
+}
+
