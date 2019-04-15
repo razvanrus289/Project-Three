@@ -6,4 +6,3 @@ function initMap() {
   });
 }
 
-google.maps.addDomListener(window, 'load', initMap());
