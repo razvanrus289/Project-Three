@@ -331,7 +331,10 @@ nav#pagefournav ul li a {
   margin-left: 10px;
 }
 #map {
-  height: 100%;
+  height: 500px;
+  width: 500px;
+  float: right;
+  margin: 50px 10px 10px 10px;
 }
 @media only screen and (min-width: 800px) {
   #pageone {
