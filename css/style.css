@@ -168,11 +168,13 @@ nav#pagefournav ul li a {
   margin-right: auto;
   margin-left: auto;
 }
+/*
 #romaniamap {
   width: 350px;
   float: right;
   margin-right: 10px;
 }
+*/
 .para1-pg3 { /* WWI (Romania Page) */
   display: block;
   background-color: #D6E9F5;
@@ -483,5 +485,21 @@ nav#pagefournav ul li a {
     text-align: center;
     margin: auto;
   }
+}
+
+.mySlides {
+  width: 350px;
+  float: right;
+  margin-right: 10px;
+}
+.w3-button w3-display-left {
+  position: relative;
+  float: right;
+  margin-right: 5%;
+}
+w3-button w3-display-right {
+  position: relative;
+  float: right;
+  margin-right: 5%;
 }
 
