@@ -491,15 +491,16 @@ nav#pagefournav ul li a {
   width: 350px;
   float: right;
   margin-right: 10px;
+  display: none;
 }
-.w3-button w3-display-left {
-  position: relative;
+.w3-button-w3-display-right {
   float: right;
-  margin-right: 5%;
+  margin: 250px 5px 0px 100px;
 }
-w3-button w3-display-right {
-  position: relative;
+.w3-button-w3-display-left {
   float: right;
-  margin-right: 5%;
+  margin: 250px 5px 0px 100px;
+
 }
+
 
