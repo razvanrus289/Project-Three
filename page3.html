@@ -18,11 +18,22 @@
     </ul>
   </nav>
   <h1 class="box3">Romania</h1>
-  <img class="mySlides" src="images/romaniamap.png" alt="Picture 1">
-  <img class="mySlides" src="images/2.jpeg" alt="Picture 2">
-  <img class="mySlides" src="images/3.jpg" alt="Picture 3">
-  <button class="w3-button-w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
-  <button class="w3-button-w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+  <div class="slideshow-container">
+    <div class="mySlides">
+      <img src="images/romaniamap.png" style="width:100%" />
+    </div>
+
+    <div class="mySlides">
+      <img src="images/2.jpeg" style="width:100%" />
+    </div>
+
+    <div class="mySlides">
+      <img src="images/3.jpg" style="width:100%" />
+    </div>
+
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  </div>
   <section>
     <h2 class="para1-pg3"><strong>History</strong></h2>
     <h4 class="para1-pg3"><strong><em>World War I</em></strong></h4>
