@@ -486,7 +486,6 @@ nav#pagefournav ul li a {
     margin: auto;
   }
 }
-
 /* Slideshow container */
 .slideshow-container {
   max-width: 300px;
@@ -494,12 +493,10 @@ nav#pagefournav ul li a {
   margin-right: 10px;
   margin-top: 65px;
 }
-
 /* Hide the images by default */
 .mySlides {
   display: none;
 }
-
 /* Next & previous buttons */
 .prev,
 .next {
@@ -516,17 +513,23 @@ nav#pagefournav ul li a {
   border-radius: 0 3px 3px 0;
   user-select: none;
 }
-
 /* Position the "next button" to the right */
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
-
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover,
 .next:hover {
   background-color: rgba(214, 233, 245, .65);
 }
-
-
+#ArrowTextBox {
+  float: right;
+  background-color: #D6E9F5;
+  color: #A24F0B;
+  width: 10%;
+  padding: 5px 5px 5px 10px;
+  border-radius: 4px;
+  text-align: right;
+  margin: 5px 5px 5px 5px;
+}
