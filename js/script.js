@@ -25,8 +25,3 @@ function showSlides(n) {
   }
   slides[slideIndex - 1].style.display = "block";
 }
-function disappear {
-  if(document.getElementById('next').clicked == true) {
-    document.getElementById("ArrowTextBox").style.visibility = "hidden";
-  }
-}
