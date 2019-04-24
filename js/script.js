@@ -10,7 +10,6 @@ showSlides(slideIndex);
 function plusSlides(n) {
   showSlides((slideIndex += n));
 }
-
 function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides");
